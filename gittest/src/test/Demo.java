@@ -5,4 +5,5 @@ public class Demo {
     int y = 100;
     int z = 101;
     String name = "coco";
+    String hero = "jugg";
 }
