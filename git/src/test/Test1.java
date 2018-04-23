@@ -7,4 +7,6 @@ public class Test1 {
     String name3 = "测试gi2t";
     String name4 = "测试gi2t";
     String name5 = "测试gi2t";
+    String name6 = "测试gi2t";
+    String namea = "测试gi2t";
 }
