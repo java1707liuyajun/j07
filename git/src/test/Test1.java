@@ -6,4 +6,5 @@ public class Test1 {
     String name2 = "测试gi2t";
     String name3 = "测试gi2t";
     String name4 = "测试gi2t";
+    String name5 = "测试gi2t";
 }
